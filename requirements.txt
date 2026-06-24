@@ -1,0 +1,9 @@
+# Core data + ML stack (Cervical Cancer Risk Prediction: ML vs DL)
+# Versions are loose for portability; pin to your Colab versions for exact reproducibility.
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.13
+scikit-learn>=1.4
+tensorflow>=2.15
+joblib>=1.3

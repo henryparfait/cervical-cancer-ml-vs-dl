@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Data / models (keep repo light; dataset streams from URL in the notebook)
+*.pkl
+*.h5
+*.keras
+data/
+*.csv
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Allow figures to be tracked
+!figures/*.png
