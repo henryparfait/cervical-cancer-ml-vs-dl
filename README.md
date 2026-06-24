@@ -13,8 +13,8 @@ TensorFlow neural networks (Sequential API, Functional API, and `tf.data` pipeli
 
 ## Links
 
-- 📄 **Report (IEEE):** _[ add link to PDF in this repo or a drive link ]_
-- 🎥 **Demo video (5 min):** _[ add link ]_
+- 📄 **Report (IEEE):** [`Report`](https://docs.google.com/document/d/1pdhbSmGWYqjcqNNDb6Gpm_ttBFMttBi3u-urhEZEAaA/edit?usp=sharing)
+- 🎥 **Demo video (5 min):** [`Demo video`](https://drive.google.com/file/d/1txTnfSypRredIT5hIPyRbQ6JlOJgOjeo/view?usp=sharing)
 - 📓 **Notebook:** [`notebooks/Cervical_Cancer_Risk_Prediction.ipynb`](notebooks/Cervical_Cancer_Risk_Prediction.ipynb)
 - 📊 **Dataset:** UCI Cervical Cancer (Risk Factors) — Fernandes, Cardoso & Fernandes (2017), DOI [10.24432/C5Z310](https://doi.org/10.24432/C5Z310)
 
@@ -127,7 +127,7 @@ are reported as a mean across five seeds.
 
 ## Author
 
-**[ Your Name ]** — BSc Software Engineering (ML), African Leadership University.
+**Henry Christian Parfait** — BSc Software Engineering (ML), African Leadership University.
 
 ## License
 
